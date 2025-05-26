@@ -1,1 +1,120 @@
+github repository link:
 https://github.com/joydip-git/siemens-dotnetcore-26thmay2025
+
+s/w:
+-------------
+Visual Studio 2022 [17.14]
+Visual Studio Code
+SQl Server ...
+.net core 
+	STS => Standard Term Support [odd] => 9 
+	LTS => Long Term Support [even] => 8.0.404
+
+.net framework: (2002 -> last version 4.8 - 2019)
+	licensed
+	library: .net framework class library
+	runtime: Common Language Runtime
+	web tech: ASP.NET
+	data access tech: ADO.NET and Entity Framework
+
+.net core (since 2016)
+	1.0 -> 3.1
+	.NET 5.0, 6.0, 7.0, 8.0, 9.0, 10.0
+	open source
+	cross-platform
+	official website [for packages]: nuget.org (source code - github)
+	ready to be containerized
+	CLI tool: dotnet
+	compiler: Roslyn [for C# and VB]
+	library: .net core library [smaller and modular]
+	runtime:
+		.NET runtime [only console apps can run] - any machine
+		ASP.NET Core runtime [for web apps] - any machine
+		.NET Desktop runtime [WPF, WinForm type apps] - ONLY for Windows machines
+		
+	web tech: ASP.NET Core
+	data access tech: ADO.NET and Entity Framework Core
+
+.NET/.NET Core features:
+-----------------------------------
+	built-in DI 
+	built-in support reading configuration data from different files
+	built-in support for logging
+	built-in Hosting feature
+	graceful shutdown
+	etc.
+
+C# programming language:
+	1.0 - 8.0: .net framework + .net core/.net
+	9.0 - 13.0: .net core/.net
+
+.net framework:
+executable app - with Main method in a class  (console app) -> compiler -> output file (*.exe)
+non-executable app -without Main method in any class (class library, web app) -> compiler -> output file (*.dll)
+
+
+.net:
+executable app - with Main method in a class  (console app) -> compiler -> output file (*.dll) + host app (*.exe)
+non-executable app -without Main method in any class (class library, web app) -> compiler -> output file (*.dll)
+
+output file: (assembly)
+-------------------------------
+1. Intermediate Language (IL) Code
+2. Assembly Metadata/Manifest -> information about the application (dependencies, module information, author, copyright, security etc.)
+3. Type Metadata/Metainfo -> metadata about all the types (classes, interfaces etc.) declared in your application
+4. Headers:
+	CLR Header: a header value (32/64 bit) indicating that your application is targetted for .Net particular version (8/9 etc.)
+	Windows Header (optional): a header value (32/64 bit) indicating which O/S DLLs are required for the app to run
+
+view the assesmbly: ILDASM (Intermediate Language Dis-Assembler)
+path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe
+
+IL code uses single unified type system known as - common type system  (CTS)
+
+runtime:
+------------------------------------
+click the exe file (host)
+a process starts
+the specific runtime (libraray - mscoreei.dll - MS Common Object Runtime Execution Engine Interface) is loaded in the process
+an App Domain is created in the process
+then the output file is loaded in the process memory (in the App Domain)
+then the IL code of output file is converted to binary code by Just-i-Time compiler
+then the execution begins from Main method
+
+C#:
+------------
+object-oriented programming language
+case-sensitive
+type-safe
+etc.
+
+data types:
+	value type			reference type
+------------------------------------------------------------------
+built-in	user-defined		built-in 	user-defined
+--------------------------------------------------------------------
+byte		struct, enum		string, Object	class
+sbyte							interface
+short [Int16]						delegate
+ushort							event
+int [Int32]
+uint
+long [Int64]
+ulong
+
+float   float f = 12.34F;
+decimal decimal d = 12.34M;
+double  double d1 = 12.34D;
+
+char
+bool [Boolean]
+
+Nullable value type
+Nullable reference type
+null coalesce operator
+null propagation
+
+operators:
+	
+control flow statements:
+	

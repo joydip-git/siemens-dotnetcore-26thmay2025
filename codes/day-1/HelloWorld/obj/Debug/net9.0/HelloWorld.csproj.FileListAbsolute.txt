@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
