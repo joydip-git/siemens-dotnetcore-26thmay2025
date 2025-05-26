@@ -117,4 +117,33 @@ null propagation
 operators:
 	
 control flow statements:
+
+blank sol: Siemens.DotNetCore.MessengerApp
+
+library: Siemens.DotNetCore.MessengerApp.Logic
+
+Adding Project reference in .NET Core:
+1. in the solution explorer right click on the project name
+project name>Add>Project Reference from the context menu
+
+2. Manually add project reference in .csproj file
+	<ItemGroup>
+		<ProjectReference Include="<path-to-target-project-csproj-file>" />
+	</ItemGroup>
+
+3. using dotnet CLI:
+	>dotnet add reference <path-to-target-project-csproj-file>
+
+DOTNET CLI commands:
+to restore the dependencies of a project (an app)
+	>dotnet restore
+to compile a project (an app)
+	>dotnet build
+to run a project (an app)
+	>dotnet run
+to add reference to a project (an app) from another project (an app)
+	>dotnet add reference <path-to-target-project-csproj-file>
+
+
+
 	

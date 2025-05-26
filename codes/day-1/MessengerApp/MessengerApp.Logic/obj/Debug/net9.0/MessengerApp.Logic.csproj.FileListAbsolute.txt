@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\bin\Debug\net9.0\MessengerApp.Logic.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\bin\Debug\net9.0\MessengerApp.Logic.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\bin\Debug\net9.0\MessengerApp.Logic.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\refint\MessengerApp.Logic.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\MessengerApp.Logic.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MessengerApp\MessengerApp.Logic\obj\Debug\net9.0\ref\MessengerApp.Logic.dll

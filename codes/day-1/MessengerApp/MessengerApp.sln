@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerApp.Logic", "MessengerApp.Logic\MessengerApp.Logic.csproj", "{19B6EAA0-86CC-4DC8-B583-7EACCEAC8108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerApp.UserInterface", "MessengerApp.UserInterface\MessengerApp.UserInterface.csproj", "{3C475679-2A91-44D7-8A3A-77DAF43B9583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B6EAA0-86CC-4DC8-B583-7EACCEAC8108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B6EAA0-86CC-4DC8-B583-7EACCEAC8108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B6EAA0-86CC-4DC8-B583-7EACCEAC8108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B6EAA0-86CC-4DC8-B583-7EACCEAC8108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C475679-2A91-44D7-8A3A-77DAF43B9583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C475679-2A91-44D7-8A3A-77DAF43B9583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C475679-2A91-44D7-8A3A-77DAF43B9583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C475679-2A91-44D7-8A3A-77DAF43B9583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF896CBD-7657-4C37-AE6C-E77A5A065D35}
+	EndGlobalSection
+EndGlobal
