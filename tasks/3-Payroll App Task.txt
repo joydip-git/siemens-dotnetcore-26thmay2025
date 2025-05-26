@@ -1,0 +1,51 @@
+agenda: to implement the concept of class, its data members, methods, properties, constructors, create instance of class, access members etc.
+
+payroll application:
+this application is used to calculate salary of different types of employees of an organization, for example, currently developers.
+
+A. create a blank solution: PayrollApp
+
+B. Library app: add a new library project in the same solution, named: PayrollApp.Entities
+
+Add a class file: Developer.cs with a class inside it: Developer
+
+Developer class structure:
+	Data Members:
+		id (int) -> should be assigned ONLY through constructor [use readonly keyword with data member]
+		name (string)
+		basicPay (decimal)
+		daPay (decimal)
+		hraPay (decimal)
+		incentivePay (decimal)
+		totalPay (decimal) -> will be set by a method, will NOT be passed from outside the class
+
+	Constructors:
+		default ctor
+		parameterized ctor -> will assign value to all data members, except the "totalPay"
+	
+	Properties:
+		Id for id -> readonly property
+		Name for name
+		BasicPay for basicPay
+		DaPay for daPay
+		HraPay for hraPay
+		IncentivePay for incentivePay
+		TotalPay for totalPay -> readonly property
+		
+	Functionalities:
+		CalculateSalary: calculates the total salary (simply add the salary parts) and assigns the same to the totalPay 
+			arguments: NA
+			return value: void
+
+
+
+C. Console App: Add a new console app in the solution, named: PayrollApp.UserInterface
+
+add reference to the PayrollApp.Entities library project
+
+in the [Main method of Program class in] Program.cs, create at least one object of the class and assign the values to the data members. Then calculate the total pay and then print the same.
+
+Note: 
+	1. accept all the values from user
+	2. do not create instance of the Developer class in the Main method. Create the object in separate method. the method will create the instance and return the instance to the Main method. the method will be called from Main method.
+	3. In the main method you will calculate the total pay and print the same

@@ -1,0 +1,63 @@
+create a DotNet aplication to find out which people/person are/is outstanding
+
+there two types of person:
+
+professor:
+	attributes: name, number of books published
+	functionality: returns true or false based on whether the professor is outstanding or not
+	[logic: a professor is outstanding if the professor has published more than 5 books]
+
+student:
+	attributes: name, marks
+	functinality: returns true or false based on whether the student is outstanding or not
+	[logic: a student is outstanding if the person has secured more than 85 marks]
+
+A. Library: create a library application
+1. create classes for those two types in that library
+2. they must have default and parameterized constructors, data members, properties and methods
+3. create a base class/interface, for the common data and methods
+
+B. executable application: create a conole application and add reference to the library
+1. in main method/top-level statement file create objects of these two types
+	a. ask user how many person instances/records to be created
+	b. create that many people (accept all the attribute values from user)
+		i. print menu for user so that user can choose which type of object to be created
+		ii. based on the choice you create that type of object
+	c. save every instance in an array
+	d. iterate through the array and figure out which person is outstanding and print the name and marks/number of books publshed for that person ONLY
+
+
+sample output:
+----------------------
+how many records? 4
+
+1. Professor 2. Student
+
+enter choice[1/2]: 1
+
+enter name: anil
+enter number of books published: 3
+
+1. Professor 2. Student
+
+enter choice[1/2]: 2
+
+enter name: sunil
+enter marks: 89
+
+1. Professor 2. Student
+
+enter choice[1/2]: 1
+
+enter name: mahesh
+enter number of books published: 7
+
+1. Professor 2. Student
+
+enter choice[1/2]: 2
+
+enter name: suresh
+enter marks: 78
+
+sunil is an outstanding student with marks: 89
+mahesh is an outstanding professor with number of books published: 7
