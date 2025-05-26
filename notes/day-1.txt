@@ -227,6 +227,37 @@ if(obj != null)
 
 obj?.Method(); //null propagation
 
+pass by value
+pass by reference: ref and out keyword
+nameof() operator
+record and tuple
+
+tuple:
+------------
+static (int?,string) Calculate(....)
+static (int? Result,string MethodName) Calculate(....)
+
+record:
+---------------
+//declaration of a record
+record CalulationResult(int? Result,string MethodName);
+
+//using that record type as return value
+static CalulationResult Calculate(....)
+
+//Array arr = new IntArray(2);
+
+int[] numbers = new int[2];
+
+int[,] numbers = new int[2,3];
+
+string[] names = {"anil","sunil"};
+
+
+
+
+
+
 
 
 
