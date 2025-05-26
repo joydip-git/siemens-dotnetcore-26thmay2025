@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\Siemens.DotNetCore.CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}|UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\siemens.dotnetcore.calculatorapp\\userinterfacewithrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}|UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj|solutionrelative:userinterfacewithrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}|UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\siemens.dotnetcore.calculatorapp\\userinterfacewithrecord\\userinterfacewithrecord.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}|UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj|solutionrelative:userinterfacewithrecord\\userinterfacewithrecord.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInterfaceWithRecord",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\Siemens.DotNetCore.CalculatorApp\\UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj",
+              "RelativeDocumentMoniker": "UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\Siemens.DotNetCore.CalculatorApp\\UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj",
+              "RelativeToolTip": "UserInterfaceWithRecord\\UserInterfaceWithRecord.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T11:00:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\Siemens.DotNetCore.CalculatorApp\\UserInterfaceWithRecord\\Program.cs",
+              "RelativeDocumentMoniker": "UserInterfaceWithRecord\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-1\\Siemens.DotNetCore.CalculatorApp\\UserInterfaceWithRecord\\Program.cs",
+              "RelativeToolTip": "UserInterfaceWithRecord\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:58:40.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

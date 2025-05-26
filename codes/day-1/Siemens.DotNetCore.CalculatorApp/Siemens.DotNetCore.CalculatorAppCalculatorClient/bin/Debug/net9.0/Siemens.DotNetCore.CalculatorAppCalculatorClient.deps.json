@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Siemens.DotNetCore.CalculatorAppCalculatorClient/1.0.0": {
+        "dependencies": {
+          "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Siemens.DotNetCore.CalculatorAppCalculatorClient.dll": {}
+        }
+      },
+      "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary/1.0.0": {
+        "runtime": {
+          "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens.DotNetCore.CalculatorAppCalculatorClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

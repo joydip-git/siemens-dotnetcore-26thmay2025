@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary", "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary\Siemens.DotNetCore.CalculatorApp.CalculatorLibrary.csproj", "{1F9CF09F-376C-4343-AA03-57BA80D89967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.CalculatorAppCalculatorClient", "Siemens.DotNetCore.CalculatorAppCalculatorClient\Siemens.DotNetCore.CalculatorAppCalculatorClient.csproj", "{22CDA5D0-C0B5-492D-9AC0-34C90911B7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceWithRecord", "UserInterfaceWithRecord\UserInterfaceWithRecord.csproj", "{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9CF09F-376C-4343-AA03-57BA80D89967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9CF09F-376C-4343-AA03-57BA80D89967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9CF09F-376C-4343-AA03-57BA80D89967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9CF09F-376C-4343-AA03-57BA80D89967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CDA5D0-C0B5-492D-9AC0-34C90911B7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CDA5D0-C0B5-492D-9AC0-34C90911B7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CDA5D0-C0B5-492D-9AC0-34C90911B7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CDA5D0-C0B5-492D-9AC0-34C90911B7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2D1FCF-5307-4DA4-8C97-7B1D3F8DC69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63B0B6E-172E-4F5E-BD14-9C4364EEA32A}
+	EndGlobalSection
+EndGlobal

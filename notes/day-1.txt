@@ -145,5 +145,96 @@ to add reference to a project (an app) from another project (an app)
 	>dotnet add reference <path-to-target-project-csproj-file>
 
 
+Conversion of one value to another:
+----------------------------------------------
+conversion source: string
+converion target: int
+int target = int.Parse(source)
+
+conversion source: anything
+converion target: int
+int target = Convert.ToInt32(source) //"123" -> 123
+
+Parse method can convert string to a target type
+Convert class methods can convert (if possible) to target type
+
+
+Debugging:
+-----------------------------
+1. Locals: displays all the variables local to the current method that is being debugged, whether you have already executed those lines or not where those local variables have been declared
+2. Autos: displays the variables local to the current method that is being debugged,ONLY those you have already executed
+3. watch: you can type the local variable names and then evaluate them
+4. Quick Watch: you can right-click on a variable in the line currently being executed and from the context menu you will get this window
+
+5. Command Window:  you can type the local variable names and then evaluate them
+6. Immediate Window:  you can type the local variable names and then evaluate them
+
+cw("enter dob");
+datetime dob;
+bool isPos = datetime.TryParse(crl(),out dob);
+if(isPos)
+
+
+
+Nullable Value Type:
+-----------------------------
+int x = null;
+
+products
+----------
+id name price (decimal(18,2))
+1  abcd NULL
+
+int id = 1;
+string name = "abcd";
+//decimal price = NULL;<--incorrect
+
+string str = null;
+A obj = null;
+
+//Nullable<decimal> price = null;
+decimal? price = null;
+price = 12.34M;
+
+if(price.HasValue)
+{
+	c.wl(price.Value);
+}
+
+out keyword in C#:
+------------------------------
+int x = 10;
+int y = 20;
+int z;
+Print(x, ref y, out z);
+
+
+
+static void Print(int a, ref int b, out int c)
+{
+	a = 11;
+	b = 21;
+	z = 31;
+}
+
+Nullable reference type:
+--------------------------
+string? str = null;
+
+A? obj = null;
+if(obj != null)
+	obj.Method();
+
+obj?.Method(); //null propagation
+
+
+
+
+
+
+
+
+
+
 
 	

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary/1.0.0": {
+        "runtime": {
+          "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens.DotNetCore.CalculatorApp.CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
