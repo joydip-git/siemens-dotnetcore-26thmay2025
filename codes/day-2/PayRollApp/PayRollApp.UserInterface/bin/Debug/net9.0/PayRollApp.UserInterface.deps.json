@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PayRollApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "PayRollApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PayRollApp.UserInterface.dll": {}
+        }
+      },
+      "PayRollApp.Entities/1.0.0": {
+        "runtime": {
+          "PayRollApp.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayRollApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PayRollApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\bin\Debug\net9.0\PayRollApp.Entities.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\bin\Debug\net9.0\PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\bin\Debug\net9.0\PayRollApp.Entities.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\refint\PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\PayRollApp.Entities.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\net9.0\ref\PayRollApp.Entities.dll

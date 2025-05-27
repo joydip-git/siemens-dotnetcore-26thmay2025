@@ -91,4 +91,22 @@ method overloading and constructor oveloading:
 operators:
 	+ => string -> Concat
 
+A => virtual void Foo(){}
+B => overide void Foo(){}
+C => overide void Foo(){}
+
+
+Init only property, automatic property and object-initializer:
+------------------------------------------------------------------
+ object-initializer:
+
+since Name property is decalred with "required" keyword that property value must be passed through object-initializer 
+
+example: Employee emp = new Employee(1) { Name = "", BasicPayment = 1, DaPayment = 1, HraPayment = 1 };
+
+Init-only property (such as Id) can be used in object-initializer or in the ctor of this class
+
+ Employee emp = new Employee() { Name = "anil", Id = 1, BasicPayment = 1000, DaPayment = 1000, HraPayment = 1000 };
+emp.Id = 2;<-Init-only property, can be set only once 
+
 

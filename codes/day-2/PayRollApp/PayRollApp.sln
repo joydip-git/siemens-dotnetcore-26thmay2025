@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayRollApp.Entities", "PayRollApp.Entities\PayRollApp.Entities.csproj", "{15BBDDCA-7B7C-404C-8FB3-94A5714B1620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayRollApp.UserInterface", "PayRollApp.UserInterface\PayRollApp.UserInterface.csproj", "{13C15A87-F60E-4D9E-81E5-5820460E14F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BBDDCA-7B7C-404C-8FB3-94A5714B1620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BBDDCA-7B7C-404C-8FB3-94A5714B1620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BBDDCA-7B7C-404C-8FB3-94A5714B1620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BBDDCA-7B7C-404C-8FB3-94A5714B1620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C15A87-F60E-4D9E-81E5-5820460E14F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C15A87-F60E-4D9E-81E5-5820460E14F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C15A87-F60E-4D9E-81E5-5820460E14F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C15A87-F60E-4D9E-81E5-5820460E14F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42804258-4F82-4AE6-8E2C-A3E4EC9B3782}
+	EndGlobalSection
+EndGlobal
