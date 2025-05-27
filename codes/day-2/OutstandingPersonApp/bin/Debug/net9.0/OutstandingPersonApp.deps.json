@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OutstandingPersonApp/1.0.0": {
+        "runtime": {
+          "OutstandingPersonApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OutstandingPersonApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

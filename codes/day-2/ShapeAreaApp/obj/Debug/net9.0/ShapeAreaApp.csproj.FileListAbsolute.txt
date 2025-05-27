@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\bin\Debug\net9.0\ShapeAreaApp.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\bin\Debug\net9.0\ShapeAreaApp.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\bin\Debug\net9.0\ShapeAreaApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\bin\Debug\net9.0\ShapeAreaApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\bin\Debug\net9.0\ShapeAreaApp.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\refint\ShapeAreaApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ShapeAreaApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\ShapeAreaApp\obj\Debug\net9.0\ref\ShapeAreaApp.dll
