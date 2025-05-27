@@ -19,6 +19,6 @@
             set => subjectToTeach = value;
         }
 
-        public string PrintInformation() => $"{base.GetInformation()}, Subject:{subjectToTeach}";
+        public override string GetInformation() => $"{base.GetInformation()}, Subject:{subjectToTeach}";
     }
 }

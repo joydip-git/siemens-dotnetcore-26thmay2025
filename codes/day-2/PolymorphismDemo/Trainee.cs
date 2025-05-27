@@ -17,6 +17,7 @@
             get => subjectToLearn; 
             set => subjectToLearn = value;
         }
-        public string ShowInformation() => $"{base.GetInformation()}, Subject to Learn:{subjectToLearn}";
+
+        public override string GetInformation() => $"{base.GetInformation()}, Subject to Learn:{subjectToLearn}";
     }
 }

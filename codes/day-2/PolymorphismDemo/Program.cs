@@ -22,13 +22,16 @@
                 Console.WriteLine($"{nameof(sunilPersonRef)} is greater than {nameof(anilPersonRef)}");
             }
 
-            Trainer trainer = new Trainer(100, "joydip", ".Net Core");
+            Person trainer = new Trainer(100, "joydip", ".Net Core");
             Display(trainer);
 
-            Trainee trainee = new Trainee(101, "vinod", ".Net Core");
+            Person trainee = new Trainee(101, "vinod", ".Net Core");
             Display(trainee);
         }
-        static void Display() { }
+        static void Display(Person person)
+        {
+            Console.WriteLine(person.GetInformation());
+        }
         //static void Display<T>(T type)
         //{
         //    if (type != null)
@@ -42,13 +45,13 @@
         //            Console.WriteLine(trainee.ShowInformation());
         //        }
         //    }
-            //static void Display(Trainee trainee)
-            //{
-            //    Console.WriteLine(trainee.ShowInformation());
-            //}
-            //static void Display(Trainer trainer)
-            //{
-            //    Console.WriteLine(trainer.PrintInformation());
-            //}
-        }
+        //static void Display(Trainee trainee)
+        //{
+        //    Console.WriteLine(trainee.ShowInformation());
+        //}
+        //static void Display(Trainer trainer)
+        //{
+        //    Console.WriteLine(trainer.PrintInformation());
+        //}
     }
+}

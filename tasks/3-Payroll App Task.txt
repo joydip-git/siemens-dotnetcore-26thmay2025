@@ -49,3 +49,50 @@ Note:
 	1. accept all the values from user
 	2. do not create instance of the Developer class in the Main method. Create the object in separate method. the method will create the instance and return the instance to the Main method. the method will be called from Main method.
 	3. In the main method you will calculate the total pay and print the same
+
+Enhancement:
+--------------------------
+
+Library: PayrollApp.Entities
+Add a class file: Hr.cs with a class inside it: Hr
+
+Developer class structure:
+	Data Members:
+		id (int) -> should be assigned ONLY through constructor [use readonly keyword with data member]
+		name (string)
+		basicPay (decimal)
+		daPay (decimal)
+		hraPay (decimal)
+		gratuityPay (decimal)
+		totalPay (decimal) -> will be set by a method, will NOT be passed from outside the class
+
+	Constructors:
+		default ctor
+		parameterized ctor -> will assign value to all data members, except the "totalPay"
+	
+	Properties:
+		Id for id -> readonly property
+		Name for name
+		BasicPay for basicPay
+		DaPay for daPay
+		HraPay for hraPay
+		GratuityPay for gratuityPay
+		TotalPay for totalPay -> readonly property
+		
+	Functionalities:
+		CalculateSalary: calculates the total salary (simply add the salary parts) and assigns the same to the totalPay 
+			arguments: NA
+			return value: void
+
+Console App: PayRollApp.UserInterface
+1. create an array to store references of both Developer and Hr class instances after asking the size of the array from user
+2. create nultiple instances of Developer and Hr class and save them in the array
+	2.a. before creating any instance ask user about which type of instance to create [provide a menu]
+	2.b. now create that type of instance and while doing that ask every piece of value from user
+	2.c. save the instance into the array
+3. Iterate through the array and pick up reference of every instance and display - name, id and total salary of everyone
+
+
+
+
+

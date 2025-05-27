@@ -38,6 +38,6 @@
             return !(a.id > b.id);
         }
 
-        public string GetInformation() => $"Name={name}, Id={id}";
+        public virtual string GetInformation() => $"Name={name}, Id={id}";
     }
 }
