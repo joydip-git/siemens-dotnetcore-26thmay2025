@@ -67,11 +67,28 @@ static ctor:
 	it is used to assign values to ONLY static members
 
 static other members: data, method, property etc.
-Note: static member can access ONLY other static member
+Note: 
+static member can access ONLY other static member
 whereas non-static (instance) member can access both other instance as well as static members
 
 
 
 Note: accessing const data does not invoke the static ctor
+
+binding: caller and called
+line no: 8 -> line no: 5 
+
+polymporphism:
+----------------------
+compile time:
+
+method overloading and constructor oveloading:
+	compiler determines which method will be invoked during runtime by looking at the signature of those methods where the methods do have some difference in the argument list:
+1. number of arguments is different
+2. data type of arguments is different
+3. position of arguments is different 
+
+operators:
+	+ => string -> Concat
 
 

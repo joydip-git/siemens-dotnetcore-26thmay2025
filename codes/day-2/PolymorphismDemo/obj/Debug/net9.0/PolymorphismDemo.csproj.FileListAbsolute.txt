@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\refint\PolymorphismDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-2\PolymorphismDemo\obj\Debug\net9.0\ref\PolymorphismDemo.dll

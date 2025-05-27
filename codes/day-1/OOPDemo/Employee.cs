@@ -1,6 +1,6 @@
 ﻿namespace OOPDemo
 {
-    class Employee : Person
+    sealed class Employee : Person
     {
         readonly int id;
         decimal salary;
