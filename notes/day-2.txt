@@ -1,38 +1,3 @@
-class Person
-{
-	string name;
-	string emailId;
-	string location;
-	long mobileNo;
-
-	public Person()
-	{
-		
-	}
-
-	public Person(string name, string emailId, string location, long mobileNo):this()
-	{
-		this.name = name;
-		.....	
-	}
-}
-
-class Employee:Person
-{
-	decimal salary;
-	public Employee()
-	{
-	}
-
-	public Employee(string name, string emailId, string location, long mobileNo, decimal salary):base(name,emailId, location,mobileNo)
-	{
-		this.salary = salary;
-	}
-}
-
-Employee p = new Employee("anil",.....);
-
-
 Next Object Pointer (NOP) managed by the heap in .NET runtime
 
 class access specifiers:
@@ -91,7 +56,7 @@ method overloading and constructor oveloading:
 operators:
 	+ => string -> Concat
 
-A => virtual void Foo(){}
+A => virtual/abstract void Foo(){}
 B => overide void Foo(){}
 C => overide void Foo(){}
 
@@ -108,5 +73,33 @@ Init-only property (such as Id) can be used in object-initializer or in the ctor
 
  Employee emp = new Employee() { Name = "anil", Id = 1, BasicPayment = 1000, DaPayment = 1000, HraPayment = 1000 };
 emp.Id = 2;<-Init-only property, can be set only once 
+
+Abstract class:
+--------------------------------
+interface IDataAccess			=> string GetData();
+class DataAccess:IDataAccess	 	=> public asbstract string GetData();
+class DbDataAccess:DataAccess		=> path
+					=> o string GetData(){//code}
+class TextFileDataAccess:DataAccess 	=> path
+					=> o string GetData(){//code}
+
+abstract property:
+------------------------
+
+public abstract string Name {set;get;}
+
+automatic/auto-implemented property:
+---------------------------------------------
+public string Name {set;get;}
+
+Interface
+---------------------
+
+
+
+
+
+
+
 
 

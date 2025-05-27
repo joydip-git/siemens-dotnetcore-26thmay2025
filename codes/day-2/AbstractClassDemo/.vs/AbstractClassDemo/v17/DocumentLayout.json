@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\abstractclassdemo\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\abstractclassdemo\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|solutionrelative:idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\abstractclassdemo\\dbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|solutionrelative:dbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\abstractclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\abstractclassdemo\\textfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978BC257-492E-4153-98DF-A2615FD3B85C}|AbstractClassDemo.csproj|solutionrelative:textfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "IDataAccess.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\IDataAccess.cs",
+              "RelativeToolTip": "IDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:10:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFileDataAccess.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\TextFileDataAccess.cs",
+              "RelativeDocumentMoniker": "TextFileDataAccess.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\TextFileDataAccess.cs",
+              "RelativeToolTip": "TextFileDataAccess.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:38:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbDataAccess.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\DbDataAccess.cs",
+              "RelativeDocumentMoniker": "DbDataAccess.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\DbDataAccess.cs",
+              "RelativeToolTip": "DbDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:37:17.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:34:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-2\\AbstractClassDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:22:58.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
