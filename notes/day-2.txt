@@ -1,0 +1,77 @@
+class Person
+{
+	string name;
+	string emailId;
+	string location;
+	long mobileNo;
+
+	public Person()
+	{
+		
+	}
+
+	public Person(string name, string emailId, string location, long mobileNo):this()
+	{
+		this.name = name;
+		.....	
+	}
+}
+
+class Employee:Person
+{
+	decimal salary;
+	public Employee()
+	{
+	}
+
+	public Employee(string name, string emailId, string location, long mobileNo, decimal salary):base(name,emailId, location,mobileNo)
+	{
+		this.salary = salary;
+	}
+}
+
+Employee p = new Employee("anil",.....);
+
+
+Next Object Pointer (NOP) managed by the heap in .NET runtime
+
+class access specifiers:
+----------------------------
+public: the class is accessible within the same app as well as from another app
+internal (default): the class is accessible within the same app ONLY
+
+readonly keyword:
+--------------------
+a data member declared with readonly keyword can be assigned ONLY through constructor
+
+const keyword:
+--------------------
+const keyword can be used to 
+	declare data member of a class 
+	as well as local variable in method
+
+const data does not have any memory allocation in runtime memory. the value is embeded in the assembly and fetched from there as "literal" value during runtime of the app.
+
+const is by default static and is accessed with class name.
+
+const data or variable MUST be assigned when they are declared
+
+static keyword:
+----------------------
+static ctor: 
+	this ctor can't be called from outside the clas or inside the class EXPLICITLY
+	that's why it is not declared with any access specifier
+	it can't be parameterized 
+	which is called implicitly by runtime when you invoke any other constructor of that class
+	this ctor is executed ONLY once in the application lifetime, either when the very first instance of that class is created or you access any other static member of the class for the very first time
+	it is used to assign values to ONLY static members
+
+static other members: data, method, property etc.
+Note: static member can access ONLY other static member
+whereas non-static (instance) member can access both other instance as well as static members
+
+
+
+Note: accessing const data does not invoke the static ctor
+
+

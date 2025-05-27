@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\bin\Debug\net9.0\MatrixArrayApp.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\bin\Debug\net9.0\MatrixArrayApp.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\bin\Debug\net9.0\MatrixArrayApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\bin\Debug\net9.0\MatrixArrayApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\bin\Debug\net9.0\MatrixArrayApp.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\refint\MatrixArrayApp.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\MatrixArrayApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-1\MatrixArrayApp\obj\Debug\net9.0\ref\MatrixArrayApp.dll
