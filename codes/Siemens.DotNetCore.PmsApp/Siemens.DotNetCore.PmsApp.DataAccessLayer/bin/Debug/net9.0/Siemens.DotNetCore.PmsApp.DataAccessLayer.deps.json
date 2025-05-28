@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Siemens.DotNetCore.PmsApp.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "Siemens.DotNetCore.PmsApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Siemens.DotNetCore.PmsApp.DataAccessLayer.dll": {}
+        }
+      },
+      "Siemens.DotNetCore.PmsApp.Entities/1.0.0": {
+        "runtime": {
+          "Siemens.DotNetCore.PmsApp.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens.DotNetCore.PmsApp.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNetCore.PmsApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

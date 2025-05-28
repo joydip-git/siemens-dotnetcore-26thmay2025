@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.Entities.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Entities.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Entities\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.Entities.dll

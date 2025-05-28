@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.DataAccessLayer\Siemens.DotNetCore.PmsApp.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.Entities\Siemens.DotNetCore.PmsApp.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
