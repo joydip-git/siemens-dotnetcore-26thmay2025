@@ -1,0 +1,43 @@
+pmsapp plan:
+
+database:
+database: siemensdb
+table: products
+	columns: productid (varchar(8), pk, not null), name (not null, varchar(50)),price (decimal(18,2)), description (varchar(max))
+
+blank soltuion: Siemens.DotNetCore.PmsApp
+
+1. data access layer:
+	class library: Siemens.DotNetCore.PmsApp.DataAccessLayer
+	[add reference to Siemens.DotNetCore.PmsApp.Entites]
+	- interface file: one generic contract with 5 CRUD ops
+		- IPmsDao<T,TId>
+	- class file: specific implementation of those 5 CRUD ops
+		- ProductDao
+
+
+2. business layer:
+	class library: Siemens.DotNetCore.PmsApp.BusinessLayer
+	[add reference to Siemens.DotNetCore.PmsApp.Entites],
+	[add reference to Siemens.DotNetCore.PmsApp.DataAccessLayer]
+
+	- interface file: one generic contract with 5 business ops
+		- IPmsBusinessComponent<T,TId>
+	- class file: specific implementation of those 5 business ops
+		- ProductBo
+
+3. service layer:
+	template: ASP.NET Core Web API
+	[add reference to Siemens.DotNetCore.PmsApp.Entites],
+	[add reference to Siemens.DotNetCore.PmsApp.BusinessLayer]
+	- service with 5 actions which are callable via HTTP protol methods
+	- HTTP request - APIs mapping
+
+Domain neutral type:
+	class library: Siemens.DotNetCore.PmsApp.Entities
+	- business entities (DTOs/DOs)
+	- class file: with an entity
+		- Product
+
+	
+
