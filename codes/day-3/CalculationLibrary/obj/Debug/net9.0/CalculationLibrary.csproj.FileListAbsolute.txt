@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\bin\Debug\net9.0\CalculationLibrary.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\bin\Debug\net9.0\CalculationLibrary.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\bin\Debug\net9.0\CalculationLibrary.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\refint\CalculationLibrary.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\CalculationLibrary.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CalculationLibrary\obj\Debug\net9.0\ref\CalculationLibrary.dll

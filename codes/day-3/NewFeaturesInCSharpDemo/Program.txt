@@ -1,0 +1,14 @@
+namespace NewFeaturesInCSharpDemo;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string name = "anil";
+        PrintMessage("Hello, World!");
+        void PrintMessage(string message)
+        {
+            Console.WriteLine(message + " " + name);
+        }
+    }
+}

@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\bin\Debug\net9.0\GenericAndGenericCollection.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\bin\Debug\net9.0\GenericAndGenericCollection.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\bin\Debug\net9.0\GenericAndGenericCollection.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\bin\Debug\net9.0\GenericAndGenericCollection.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\bin\Debug\net9.0\GenericAndGenericCollection.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\refint\GenericAndGenericCollection.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\GenericAndGenericCollection.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\GenericAndGenericCollection\obj\Debug\net9.0\ref\GenericAndGenericCollection.dll
