@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\genericandgenericcollection\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|solutionrelative:itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\genericandgenericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\genericandgenericcollection\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\genericandgenericcollection\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058B674D-3A8B-4861-9844-90EC5B4C200B}|GenericAndGenericCollection.csproj|solutionrelative:itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:26:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ItemList.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\ItemList.cs",
               "RelativeDocumentMoniker": "ItemList.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\ItemList.cs",
               "RelativeToolTip": "ItemList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T05:29:32.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-3\\GenericAndGenericCollection\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAD4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T05:15:00.045Z",
               "EditorCaption": ""

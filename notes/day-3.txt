@@ -1,1 +1,26 @@
 local function
+
+major 2 interface for every collection class: 
+IEnumerable<T> and ICollection<T>
+
+for loop => works because of indexer in the collection
+foreach loop => works because of GetEnumerator method in the collection class
+
+IEnumerable<T> => IEnumerator<T> GetEnumerator();
+every collection class as well as an array implement this interface and implement the GetEnumerator() method so that foreach loop can be used to iterate through those collection
+
+List<T>
+HashSet<T>
+
+
+Object:
+	virtual int GetHashCode()	
+	virtual bool Equals()	
+	virtual string ToString()
+	Type GeType()	
+
+
+1887420359	
+
+
+

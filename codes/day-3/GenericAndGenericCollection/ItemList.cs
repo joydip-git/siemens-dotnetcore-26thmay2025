@@ -3,7 +3,7 @@
 namespace GenericAndGenericCollection
 {
     //Type parameter -> TIem
-    internal class ItemList<TItem> : IEnumerable<TItem> where TItem : class, new()
+    internal class ItemList<TItem> : IEnumerable<TItem> //where TItem : class, new()
     {
         TItem[] items;
         int index = 0;
