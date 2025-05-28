@@ -20,7 +20,18 @@ Object:
 	Type GeType()	
 
 
-1887420359	
+1887420359
+
+
+delegate:
+---------------------------
+1. declaration:
+	delegate declaration should match to that of the function signature
+	a. return type should be same
+	b. arguments should be same
+		i. number
+		ii. data type
+		iii. position	
 
 
 

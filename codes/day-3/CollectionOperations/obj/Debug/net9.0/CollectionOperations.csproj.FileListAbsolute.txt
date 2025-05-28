@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\bin\Debug\net9.0\CollectionOperations.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\bin\Debug\net9.0\CollectionOperations.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\bin\Debug\net9.0\CollectionOperations.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\bin\Debug\net9.0\CollectionOperations.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\bin\Debug\net9.0\CollectionOperations.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\refint\CollectionOperations.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\CollectionOperations.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-3\CollectionOperations\obj\Debug\net9.0\ref\CollectionOperations.dll
