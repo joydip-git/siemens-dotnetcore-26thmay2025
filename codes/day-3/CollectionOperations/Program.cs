@@ -6,18 +6,35 @@
 //filter the even numbers from the list
 
 List<int> numbers = [1, 3, 5, 2, 6, 4, 8, 9, 7, 0];
-List<int> result = Filter(numbers);
-foreach (int number in result)
+List<string> names = ["anil", "sunil", "joydip"];
+
+//Logic evenDel = IsEven;
+//Logic<int> evenDel = IsEven;
+//Logic<int> oddDel = new Logic<int>(IsOdd);
+//Logic<int> isGreater = x => x > 5;
+Logic<string> containsN = name => name.ToLower().Contains('n');
+
+Predicate<int> evenDel = IsEven;
+Predicate<int> oddDel = new Predicate<int>(IsOdd);
+
+//Func<string, bool> containsN = name => name.Contains('n');
+Func<int, int, int> compare = (x, y) => x - y;
+//List<int> result = Filter(numbers, isGreater);
+List<string> result = Filter(names, containsN);
+//foreach (int number in result)
+foreach (string item in result)
 {
-    Console.WriteLine(number);
+    Console.WriteLine(item);
 }
 
-static List<int> Filter(List<int> input)
+//static List<int> Filter(List<int> input, Logic logic)
+static List<T> Filter<T>(List<T> input, Logic<T> logic)
 {
-    List<int> output = [];
-    foreach (int item in input)
+    List<T> output = [];
+    foreach (T item in input)
     {
-        if (item % 2 == 0)
+        bool isTrue = logic(item);
+        if (isTrue)
             output.Add(item);
     }
     return output;
@@ -25,3 +42,17 @@ static List<int> Filter(List<int> input)
 
 static bool IsEven(int value) => value % 2 == 0;
 static bool IsOdd(int value) => value % 2 != 0;
+
+//delegate bool Logic(int x);
+delegate bool Logic<in T>(T value);
+delegate TResult Logic<in T, out TResult>(T value);
+
+//delegate bool Predicate<in T>(T value);
+
+//delegate TResult Func<out TResult>();
+//delegate TResult Func<in T, out TResult>(T value);
+//delegate TResult Func<in T1,in T2, out TResult>(T1 value1, T2 value2);
+//.....
+//delegate TResult Func<in T1,in T2,...,in T16, out TResult>(T1 value1, T2 value2,....,T16 value16);
+
+//delegate void Action<in T> (T value);

@@ -8,16 +8,29 @@ CalDel cdSub = new CalDel(calc.Subtract);
 
 CalDel cdMulti = Calculation.Multiply;
 
+//anonymous method
+//CalDel cdDiv = delegate (int a, int b)
+//{
+//    Console.WriteLine(a / b);
+//};
+
+//Lamba Expression (syntactical way to write anonymous method)
+//CalDel cdDiv = (int a, int b) => Console.WriteLine(a / b);
+
+//type inference
+CalDel cdDiv = (a, b) => Console.WriteLine(a / b);
+
 //cdAdd(12, 3);
 //cdSub.Invoke(12, 3);
 //cdMulti(12,3);
 InvokeMethod(cdAdd);
 InvokeMethod(cdSub);
 InvokeMethod(cdMulti);
+InvokeMethod(cdDiv);
 
 static void InvokeMethod(CalDel cd)
 {
-    cd(12,3);
+    cd(12, 3);
 }
 static void Add(int x, int y) => Console.WriteLine(x + y);
 
