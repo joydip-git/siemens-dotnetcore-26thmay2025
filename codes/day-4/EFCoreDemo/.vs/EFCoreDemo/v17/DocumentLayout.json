@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +34,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EFCoreDemo",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T10:24:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.txt",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Program.txt",
+              "RelativeDocumentMoniker": "Program.txt",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Program.txt",
+              "RelativeToolTip": "Program.txt",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-29T10:22:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCoreDemo.csproj",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\EFCoreDemo.csproj",
               "RelativeDocumentMoniker": "EFCoreDemo.csproj",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\EFCoreDemo.csproj",
@@ -43,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAABJwAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T06:54:47.563Z",
               "EditorCaption": ""
@@ -62,14 +96,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T06:17:46.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SiemensDbContext.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\SiemensDbContext.cs",
               "RelativeDocumentMoniker": "SiemensDbContext.cs",

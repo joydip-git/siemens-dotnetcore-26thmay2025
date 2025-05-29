@@ -147,3 +147,11 @@ D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\obj\Debug\net9
 D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\obj\Debug\net9.0\EFCoreDemo.pdb
 D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\obj\Debug\net9.0\EFCoreDemo.genruntimeconfig.cache
 D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\obj\Debug\net9.0\ref\EFCoreDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\appsettings.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-4\EFCoreDemo\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll

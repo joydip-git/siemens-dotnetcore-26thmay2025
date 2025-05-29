@@ -102,6 +102,21 @@ Service Lifetime:
 	b. Scoped
 	c. Transient
 
+Configuration:
+package: Microsoft.Extensions.Configuration
+	 Microsoft.Extensions.Configuration.Abstractions
 
+Hosting feature:
+--------------------------------
+Manage
+	a. DI for your app
+	b. Configuration for your app
+	c. Logging of your app
+	d. Managing object lifetime
+	e. application shutdown, lifetime etc.
 
+Generic Host:
+	package: Microsoft.Extensions.Hosting
+		 Microsoft.Extensions.Hosting.Abstractions
 
+	

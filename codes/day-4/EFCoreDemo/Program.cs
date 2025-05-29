@@ -1,20 +1,29 @@
 ﻿using EFCoreDemo;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+
+//create builder for any type of configuration provider
+var configBuilder = new ConfigurationBuilder();
+
+//confiure the builder
+configBuilder
+    .AddJsonFile("appsettings.json",false,true);
+
+//create the provider
+IConfiguration configurationProvider = configBuilder.Build();
+
+//fetch configuration data
+var conStr = configurationProvider.GetConnectionString("SiemensDbConStr");
+
+//Console.WriteLine(conStr);
 
 //create registry for services
 IServiceCollection serviceRegistry = new ServiceCollection();
 
-//register services
-//serviceRegistry.Add(
-//    new ServiceDescriptor(
-//    serviceType: null,
-//    implementationType: typeof(SiemensDbContext),
-//    lifetime: ServiceLifetime.Singleton)
-//    );
-//serviceRegistry.AddSingleton<Intreface,Class>();
-
-Action<DbContextOptionsBuilder> builderDel = (op) => op.UseSqlServer(@"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;");
+//register service
+//Action<DbContextOptionsBuilder> builderDel = (op) => op.UseSqlServer(@"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;");
+Action<DbContextOptionsBuilder> builderDel = (op) => op.UseSqlServer(conStr);
 
 serviceRegistry
     .AddDbContext<SiemensDbContext>(builderDel, ServiceLifetime.Singleton);
@@ -22,15 +31,10 @@ serviceRegistry
 //create container (service provider)
 IServiceProvider provider = serviceRegistry.BuildServiceProvider();
 
-//DbContextOptionsBuilder<SiemensDbContext> builder = new();
-
-//builder
-//    .UseSqlServer(@"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;");
-
-//DbContextOptions<SiemensDbContext> options = builder.Options;
-
-//var db = new SiemensDbContext(options);
+//ask for DI
 SiemensDbContext db = provider.GetRequiredService<SiemensDbContext>();
+
+//work with EF Core
 var employees = db.Employees;
 
 //employees.Add(new Employee { Name = "joydip", Salary = 3000 });
