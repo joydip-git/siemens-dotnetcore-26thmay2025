@@ -1,36 +1,35 @@
 ﻿using EFCoreDemo;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
-//create registry for services
-IServiceCollection serviceRegistry = new ServiceCollection();
+//create host builder
+HostApplicationBuilder builder = Host.CreateApplicationBuilder(args);
 
-//register services
-//serviceRegistry.Add(
-//    new ServiceDescriptor(
-//    serviceType: null,
-//    implementationType: typeof(SiemensDbContext),
-//    lifetime: ServiceLifetime.Singleton)
-//    );
-//serviceRegistry.AddSingleton<Intreface,Class>();
+ConfigurationManager configProvider = builder.Configuration;
+configProvider.AddJsonFile("appsettings.json", false, true);
+string? conStr = configProvider.GetConnectionString("SiemensDbConStr");
 
-Action<DbContextOptionsBuilder> builderDel = (op) => op.UseSqlServer(@"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;");
-
+IServiceCollection serviceRegistry = builder.Services;
 serviceRegistry
-    .AddDbContext<SiemensDbContext>(builderDel, ServiceLifetime.Singleton);
+    .AddDbContext<SiemensDbContext>
+    (
+        (DbContextOptionsBuilder options) => 
+        options.UseSqlServer(conStr),
+        ServiceLifetime.Singleton
+    );
 
-//create container (service provider)
-IServiceProvider provider = serviceRegistry.BuildServiceProvider();
+//create the host
+IHost host = builder.Build();
 
-//DbContextOptionsBuilder<SiemensDbContext> builder = new();
+//get the container (DI) from the host
+IServiceProvider provider = host.Services;
 
-//builder
-//    .UseSqlServer(@"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;");
-
-//DbContextOptions<SiemensDbContext> options = builder.Options;
-
-//var db = new SiemensDbContext(options);
+//ask for DI
 SiemensDbContext db = provider.GetRequiredService<SiemensDbContext>();
+
+//work with EF Core
 var employees = db.Employees;
 
 //employees.Add(new Employee { Name = "joydip", Salary = 3000 });

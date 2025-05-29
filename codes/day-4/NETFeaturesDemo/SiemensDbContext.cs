@@ -10,7 +10,7 @@ namespace EFCoreDemo
 
         public SiemensDbContext(DbContextOptions<SiemensDbContext> options) : base(options)
         {
-
+            Console.WriteLine("Db context created....");
         }
         //use this method for Migration and comment afterwards
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
