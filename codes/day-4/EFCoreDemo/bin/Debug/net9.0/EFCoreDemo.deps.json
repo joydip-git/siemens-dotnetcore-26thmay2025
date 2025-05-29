@@ -9,7 +9,8 @@
       "EFCoreDemo/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.5"
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.5",
+          "Microsoft.Extensions.DependencyInjection": "9.0.5"
         },
         "runtime": {
           "EFCoreDemo.dll": {}

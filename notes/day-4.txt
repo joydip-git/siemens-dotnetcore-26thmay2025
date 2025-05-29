@@ -59,6 +59,10 @@ EF Core:
 POCO: Plain Old CLR object
 An entity which is tightly mapped to a table
 
+Table Mapping:
+1. through attributes/data annotations
+2. through Fluent API
+
 
 class House
 {
@@ -85,6 +89,18 @@ b
  .BuildAPool();
 
 House h =  b.Build();
+
+
+.NET features:
+--------------------------
+Dependency Injection:
+package: Microsoft.Extensions.DependencyInjection
+	 Microsoft.Extensions.DependencyInjection.Abstractions
+
+Service Lifetime:
+	a. Singleton
+	b. Scoped
+	c. Transient
 
 
 

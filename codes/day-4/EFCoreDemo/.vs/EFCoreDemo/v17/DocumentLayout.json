@@ -3,31 +3,20 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/siemensdb/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\20250529065942_DeptColumnDeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250529065942_DeptColumnDeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:migrations\\siemensdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\migrations\\20250529065713_deptcolumnadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:migrations\\20250529065713_deptcolumnadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\efcoredemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E091DF-792C-4E1C-AD4E-8D1F9A79A0DC}|EFCoreDemo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,92 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250529065942_DeptColumnDeleted.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\20250529065942_DeptColumnDeleted.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250529065942_DeptColumnDeleted.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\20250529065942_DeptColumnDeleted.cs",
-              "RelativeToolTip": "Migrations\\20250529065942_DeptColumnDeleted.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:59:42.463Z",
+              "Title": "EFCoreDemo",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\EFCoreDemo.csproj",
+              "RelativeDocumentMoniker": "EFCoreDemo.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\EFCoreDemo.csproj",
+              "RelativeToolTip": "EFCoreDemo.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T09:10:41.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.__EFMigrationsHistory [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/siemensdb/True/SqlTable/dbo.__EFMigrationsHistory.sql",
-              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-29T06:58:13.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250529065713_DeptColumnAdded.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\20250529065713_DeptColumnAdded.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250529065713_DeptColumnAdded.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\20250529065713_DeptColumnAdded.cs",
-              "RelativeToolTip": "Migrations\\20250529065713_DeptColumnAdded.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:57:13.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T06:54:47.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SiemensDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\SiemensDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\SiemensDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Migrations\\SiemensDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\SiemensDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:45:25.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T06:17:46.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "SiemensDbContext.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\SiemensDbContext.cs",
               "RelativeDocumentMoniker": "SiemensDbContext.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\day-4\\EFCoreDemo\\SiemensDbContext.cs",
               "RelativeToolTip": "SiemensDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA4wAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBEAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T06:14:47.808Z",
               "EditorCaption": ""

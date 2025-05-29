@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreDemo.Migrations
 {
     [DbContext(typeof(SiemensDbContext))]
-    [Migration("20250529064057_IntialDbSetUp")]
-    partial class IntialDbSetUp
+    [Migration("20250529084030_InitialDbSetUp")]
+    partial class InitialDbSetUp
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,22 +29,24 @@ namespace EFCoreDemo.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
-                        .HasColumnName("employeeid");
+                        .HasColumnName("empid");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("varchar(50)")
-                        .HasColumnName("employeename");
+                        .HasColumnName("empname");
 
                     b.Property<decimal>("Salary")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("decimal(18,2)")
-                        .HasColumnName("employeesalary");
+                        .HasDefaultValue(0m)
+                        .HasColumnName("empsalary");
 
                     b.HasKey("Id");
 
-                    b.ToTable("employees");
+                    b.ToTable("employees", (string)null);
                 });
 #pragma warning restore 612, 618
         }

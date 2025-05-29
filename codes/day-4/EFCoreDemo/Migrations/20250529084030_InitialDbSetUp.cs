@@ -5,7 +5,7 @@
 namespace EFCoreDemo.Migrations
 {
     /// <inheritdoc />
-    public partial class IntialDbSetUp : Migration
+    public partial class InitialDbSetUp : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -14,14 +14,14 @@ namespace EFCoreDemo.Migrations
                 name: "employees",
                 columns: table => new
                 {
-                    employeeid = table.Column<int>(type: "int", nullable: false)
+                    empid = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    employeename = table.Column<string>(type: "varchar(50)", nullable: false),
-                    employeesalary = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    empname = table.Column<string>(type: "varchar(50)", nullable: false),
+                    empsalary = table.Column<decimal>(type: "decimal(18,2)", nullable: false, defaultValue: 0m)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_employees", x => x.employeeid);
+                    table.PrimaryKey("PK_employees", x => x.empid);
                 });
         }
 
