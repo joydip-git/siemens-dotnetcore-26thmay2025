@@ -1,0 +1,91 @@
+Data Access From Database in .NET 9:
+-----------------------------------------
+1. ActiveX Data Object.NET:
+package: Microsoft.Data.SqlClient [for SQl Server]
+>dotnet add package Microsoft.Data.SqlClient --version 6.0.2
+
+2. Entity Framework Core (EF Core):
+package: Microsoft.EntityFrameworkCore.SqlServer
+>dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version <v-no>
+
+ADO.NET:
+	Common types for data access:
+	package: System.Data.dll and System.Data.Common.dll
+	namespaces: System.Data and System.Data.Common
+
+	Data Provider classes
+	Sql Server:
+	namespace: Microsoft.Data.SqlClient
+		SqlConnection
+		SqlCommand
+		SqlDataReader
+		etc.
+	Oracle:
+	namespace: Microsoft.Data.SqlClient
+		OracleConnection
+		OracleCommand
+		OracleDataReader
+
+	etc.
+
+Windows auth:
+-----------------------
+"Data Source=JOYDIP-PC\SQLEXPRESS;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;initial catalog=siemensdb"
+or
+"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;Integrated Security=True;Encrypt=False;Trust Server Certificate=True;"
+
+SQL Server auth:
+------------------------
+"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;user id=<>;password=<>;Encrypt=False;Trust Server Certificate=True;"
+or
+"server=JOYDIP-PC\SQLEXPRESS;database=siemensdb;uid=<>;pwd=<>;Encrypt=False;Trust Server Certificate=True;"
+
+
+Command object methods:
+------------------------------
+to execute a Select query 
+	a. returning multiple values: SqlDataReader ExecuteReader()
+	a. returning single value: object ExecuteScaler()
+
+to execute a non-Select query 
+	int ExecuteNonQuery()
+
+
+EF Core:
+----------------------
+1. Code First: set up a database and table(s) and then interact with them
+2. Db First: helps you interact with an existing database and its tables
+
+POCO: Plain Old CLR object
+An entity which is tightly mapped to a table
+
+
+class House
+{
+
+}
+
+class Builder
+{
+	House house = new();
+	public Builder BuildAGarden(){//code return this;}
+	public Builder BuildAPool(){}
+	public Builder BuildAnotherFloor(){}
+	public House Build(){ return house; }
+}
+
+static class BuilderExtension
+{
+	public static Builder BuildSomething(this Builder builder,...){}
+}
+
+Builder b = new ();
+b
+ .BuildAGarden()
+ .BuildAPool();
+
+House h =  b.Build();
+
+
+
+
