@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens.DotNetCore.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e86d96f56855a2ab8ebf12c09aab59947e8dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d99d0ecf744b2f3cfb298e56b94050a41595c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens.DotNetCore.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens.DotNetCore.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

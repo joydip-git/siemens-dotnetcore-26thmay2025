@@ -14,7 +14,32 @@ namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 
         public ProductDto? Delete(string id)
         {
-            return null;
+            try
+            {
+                if (dbContext.Products.Any(p => p.ProductId == id))
+                {
+                    var product = dbContext.Products.Where(p => p.ProductId.Equals(id)).First();
+                    dbContext.Products.Remove(product);
+                    int result = dbContext.SaveChanges();
+                    if (result > 0)
+                        return new ProductDto
+                        {
+                            ProductId = product.ProductId,
+                            ProductName = product.ProductName,
+                            ProductPrice = product.ProductPrice,
+                            ProductDescription = product.ProductDescription
+                        };
+                    else
+                        throw new Exception("could not delete");
+                }
+                else
+                    throw new Exception($"product with id:{id} not found...");
+
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public IEnumerable<ProductDto> GetAll()
@@ -73,7 +98,20 @@ namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 
         public ProductDto? Insert(ProductDto entity)
         {
-            return null;
+            try
+            {
+                var product = new Product { ProductId = entity.ProductId, ProductName = entity.ProductName, ProductDescription = entity.ProductDescription, ProductPrice = entity.ProductPrice };
+                dbContext.Products.Add(product);
+                int result = dbContext.SaveChanges();
+                if (result > 0)
+                    return entity;
+                else
+                    throw new Exception("could not add..");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public ProductDto? Update(string id, ProductDto entity)

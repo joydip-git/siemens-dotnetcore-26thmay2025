@@ -45,8 +45,35 @@ namespace Siemens.DotNetCore.PmsApp.ServiceLayer.Controllers
                 return this.BadRequest(ex.Message);
             }
         }
-        //public void AddProduct(ProductDto productDto) { }
+
+        [HttpPost]
+        [Route("add")]
+        public ActionResult<ProductDto> AddProduct(ProductDto productDto) 
+        {
+            try
+            {
+                var addedProduct = businessComponent.Add(productDto);
+                return this.CreatedAtAction($"{nameof(AddProduct)}", addedProduct);
+            }
+            catch (Exception ex)
+            {
+                return this.BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete]
+        [Route("delete/{id}")]
         //public void UpdateProduct(string id, ProductDto productDto) { }
-        //public void DeleteProduct(string id) { }
+        public ActionResult<ProductDto> DeleteProduct(string id) 
+        {
+            try
+            {
+                return this.Ok(businessComponent.Remove(id));
+            }
+            catch (Exception ex)
+            {
+                return Problem(ex.Message);
+            }
+        }
     }
 }

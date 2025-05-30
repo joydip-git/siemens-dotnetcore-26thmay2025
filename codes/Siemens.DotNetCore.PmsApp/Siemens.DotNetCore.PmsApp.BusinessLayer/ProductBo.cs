@@ -51,7 +51,17 @@ namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 
         public ProductDto? Remove(string id)
         {
-            return null;
+            try
+            {
+                if (string.IsNullOrEmpty(id))
+                    throw new ArgumentException($"{nameof(id)} is either null or empty");
+                else
+                    return pmsDao.Delete(id);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
     }
 }
