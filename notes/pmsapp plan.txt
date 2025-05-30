@@ -10,6 +10,7 @@ blank soltuion: Siemens.DotNetCore.PmsApp
 1. data access layer:
 	class library: Siemens.DotNetCore.PmsApp.DataAccessLayer
 	[add reference to Siemens.DotNetCore.PmsApp.Entites]
+	[add reference Siemens.DotNetCore.PmsApp.Repository]
 	- interface file: one generic contract with 5 CRUD ops
 		- IPmsDao<T,TId>
 	- class file: specific implementation of those 5 CRUD ops

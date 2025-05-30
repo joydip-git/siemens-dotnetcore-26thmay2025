@@ -16,3 +16,5 @@ D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Sieme
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.BusinessLayer\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.BusinessLayer.dll
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.BusinessLayer\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.BusinessLayer.pdb
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.BusinessLayer\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.BusinessLayer.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.BusinessLayer\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.BusinessLayer\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb

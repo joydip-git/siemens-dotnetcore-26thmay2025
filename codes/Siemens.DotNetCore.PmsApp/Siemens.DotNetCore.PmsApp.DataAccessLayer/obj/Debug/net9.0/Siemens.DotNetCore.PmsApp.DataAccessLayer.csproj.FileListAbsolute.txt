@@ -14,3 +14,5 @@ D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Sieme
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DataAccessLayer\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.DataAccessLayer.dll
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DataAccessLayer\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.DataAccessLayer.pdb
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DataAccessLayer\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.DataAccessLayer.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DataAccessLayer\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.DataAccessLayer\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb

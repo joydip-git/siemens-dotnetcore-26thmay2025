@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.Entities\Siemens.DotNetCore.PmsApp.Entities.csproj" />
+    <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.Repository\Siemens.DotNetCore.PmsApp.Repository.csproj" />
   </ItemGroup>
 
 </Project>
