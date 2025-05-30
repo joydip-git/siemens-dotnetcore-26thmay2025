@@ -29,6 +29,7 @@ blank soltuion: Siemens.DotNetCore.PmsApp
 
 3. service layer:
 	template: ASP.NET Core Web API
+	name: Siemens.DotNetCore.PmsApp.ServiceLayer
 	[add reference to Siemens.DotNetCore.PmsApp.Entites],
 	[add reference to Siemens.DotNetCore.PmsApp.BusinessLayer]
 	- service with 5 actions which are callable via HTTP protol methods
