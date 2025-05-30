@@ -1,6 +1,6 @@
 ﻿namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 {
-    internal interface IPmsBusinessComponent<T,TId> where T : class
+    public interface IPmsBusinessComponent<T,TId> where T : class
     {
         T? Add(T entity);
         T? Modify(TId id, T entity);

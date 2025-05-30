@@ -1,0 +1,6 @@
+@Siemens.DotNetCore.PmsApp.ServiceLayer_HostAddress = http://localhost:5272
+
+GET {{Siemens.DotNetCore.PmsApp.ServiceLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

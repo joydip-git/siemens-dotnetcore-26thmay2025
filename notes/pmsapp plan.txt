@@ -46,3 +46,6 @@ blank soltuion: Siemens.DotNetCore.PmsApp
 	- db context child class
 	- poco class
 
+
+Bo <- Dao <- DbContext <- DbContextOptions<T>
+

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.Repository", "Siemens.DotNetCore.PmsApp.Repository\Siemens.DotNetCore.PmsApp.Repository.csproj", "{C7DB3BA9-C359-4571-91E6-ECCB78CAA140}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siemens.DotNetCore.PmsApp.ServiceLayer", "Siemens.DotNetCore.PmsApp.ServiceLayer\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj", "{B3C116E4-79AE-485B-A27E-FD0BCA292632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C7DB3BA9-C359-4571-91E6-ECCB78CAA140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DB3BA9-C359-4571-91E6-ECCB78CAA140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DB3BA9-C359-4571-91E6-ECCB78CAA140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C116E4-79AE-485B-A27E-FD0BCA292632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C116E4-79AE-485B-A27E-FD0BCA292632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C116E4-79AE-485B-A27E-FD0BCA292632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C116E4-79AE-485B-A27E-FD0BCA292632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

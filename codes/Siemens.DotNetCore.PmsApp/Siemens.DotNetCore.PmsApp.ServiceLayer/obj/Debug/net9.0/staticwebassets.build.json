@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4zUDE3hn9pqsmlK7osaLCGHpfNoDYk6g8u+b0VJdqv4=",
+  "Source": "Siemens.DotNetCore.PmsApp.ServiceLayer",
+  "BasePath": "_content/Siemens.DotNetCore.PmsApp.ServiceLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Siemens.DotNetCore.PmsApp.ServiceLayer.props" />
+</Project>
