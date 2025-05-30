@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{620FB706-13E8-4E89-846E-5745B36FC2AB}|Siemens.DotNetCore.PmsApp.DataAccessLayer\\Siemens.DotNetCore.PmsApp.DataAccessLayer.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620FB706-13E8-4E89-846E-5745B36FC2AB}|Siemens.DotNetCore.PmsApp.DataAccessLayer\\Siemens.DotNetCore.PmsApp.DataAccessLayer.csproj|solutionrelative:siemens.dotnetcore.pmsapp.dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicelayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicelayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E53CBF34-4F4F-4B02-ADC6-AEEAED0C8198}|Siemens.DotNetCore.PmsApp.BusinessLayer\\Siemens.DotNetCore.PmsApp.BusinessLayer.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.businesslayer\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E53CBF34-4F4F-4B02-ADC6-AEEAED0C8198}|Siemens.DotNetCore.PmsApp.BusinessLayer\\Siemens.DotNetCore.PmsApp.BusinessLayer.csproj|solutionrelative:siemens.dotnetcore.pmsapp.businesslayer\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicelayer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicelayer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|d:\\training\\siemens-dotnetcore-26thmay2025\\codes\\siemens.dotnetcore.pmsapp\\siemens.dotnetcore.pmsapp.servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C116E4-79AE-485B-A27E-FD0BCA292632}|Siemens.DotNetCore.PmsApp.ServiceLayer\\Siemens.DotNetCore.PmsApp.ServiceLayer.csproj|solutionrelative:siemens.dotnetcore.pmsapp.servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T10:47:02.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DataAccessLayer\\ProductDao.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.DataAccessLayer\\ProductDao.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.DataAccessLayer\\ProductDao.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.DataAccessLayer\\ProductDao.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:43:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductBo.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.BusinessLayer\\ProductBo.cs",
               "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.BusinessLayer\\ProductBo.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.BusinessLayer\\ProductBo.cs",
               "RelativeToolTip": "Siemens.DotNetCore.PmsApp.BusinessLayer\\ProductBo.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T09:34:17.402Z",
+              "WhenOpened": "2025-05-30T10:43:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:42:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-26thmay2025\\codes\\Siemens.DotNetCore.PmsApp\\Siemens.DotNetCore.PmsApp.ServiceLayer\\Program.cs",
+              "RelativeToolTip": "Siemens.DotNetCore.PmsApp.ServiceLayer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:42:14.555Z",
               "EditorCaption": ""
             }
           ]

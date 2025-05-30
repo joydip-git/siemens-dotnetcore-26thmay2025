@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.BusinessLayer\Siemens.DotNetCore.PmsApp.BusinessLayer.csproj" />
     <ProjectReference Include="..\Siemens.DotNetCore.PmsApp.Entities\Siemens.DotNetCore.PmsApp.Entities.csproj" />
   </ItemGroup>

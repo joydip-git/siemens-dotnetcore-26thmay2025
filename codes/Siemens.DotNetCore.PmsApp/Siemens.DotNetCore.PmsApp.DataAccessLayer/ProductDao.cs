@@ -49,7 +49,26 @@ namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 
         public ProductDto? GetById(string id)
         {
-            return null;
+            try
+            {
+                if (dbContext.Products.Any(p => p.ProductId.Equals(id)))
+                {
+                    var product = dbContext.Products.Where(p => p.ProductId.Equals(id)).First();
+                    return new ProductDto
+                    {
+                        ProductId = product.ProductId,
+                        ProductName = product.ProductName,
+                        ProductPrice = product.ProductPrice,
+                        ProductDescription = product.ProductDescription
+                    };
+                }
+                else
+                    throw new Exception($"product with id:{id} not found...");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public ProductDto? Insert(ProductDto entity)

@@ -31,7 +31,17 @@ namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 
         public ProductDto? FetchById(string id)
         {
-            return null;
+            try
+            {
+                if (string.IsNullOrEmpty(id))
+                    throw new ArgumentException($"{nameof(id)} is either null or empty");
+                else
+                    return pmsDao.GetById(id);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public ProductDto? Modify(string id, ProductDto entity)
@@ -41,7 +51,7 @@ namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 
         public ProductDto? Remove(string id)
         {
-            return null; 
+            return null;
         }
     }
 }

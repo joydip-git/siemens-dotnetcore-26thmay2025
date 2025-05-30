@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens.DotNetCore.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3a2cf42ad5fd2edc6be15af8971b0ca5d10dd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e86d96f56855a2ab8ebf12c09aab59947e8dbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens.DotNetCore.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens.DotNetCore.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
