@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Update Product";
+}
+
+@model ProductViewModel
+
+
+<form asp-action="Update" asp-controller="Product" method="post">
+    <div asp-validation-summary="All">
+    </div>
+    <div>
+        <label for="txtId" asp-for="Id">Id:&nbsp;</label>
+        <input type="text" id="txtId" readonly asp-for="Id" />
+    </div>
+    <div>
+        <label for="txtName" asp-for="Name">Name:&nbsp;</label>
+        <input type="text" id="txtName" asp-for="Name" />
+    </div>
+    <div>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label for="txtDesc" asp-for="Description">Description:&nbsp;</label>
+        <input type="text" id="txtDesc" asp-for="Description" />
+    </div>
+    <div>
+        <label for="txtPrice" asp-for="Price">Description:&nbsp;</label>
+        <input type="text" id="txtPrice" asp-for="Price" />
+    </div>
+    <div>
+        <span asp-validation-for="Price"></span>
+    </div>
+    <div>
+        <input type="submit" value="Update" />
+    </div>
+</form>
+
+@{
+    if (ViewData["UpdateMessage"] != null)
+    {
+        <span>@ViewData["UpdateMessage"]</span>
+    }
+}
+@{
+    if (this.ViewBag.ErrorMessage != null)
+    {
+        <span>@ViewBag.ErrorMessage</span>
+    }
+}

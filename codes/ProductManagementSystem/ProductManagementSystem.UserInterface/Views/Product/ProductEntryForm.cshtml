@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Add Product";
+}
+@model ProductViewModel
+@using (this.Html.BeginForm("Add", "Product", FormMethod.Post))
+{
+    <div>
+        @Html.ValidationSummary(false)
+    </div>
+    <div>
+        @this.Html.LabelFor(p => p.Name)
+        &nbsp;&nbsp;
+        @this.Html.TextBoxFor(p => p.Name)
+    </div>
+    <div>
+        @this.Html.ValidationMessageFor(p => p.Name)
+    </div>
+    <br />
+    <div>
+        @this.Html.LabelFor(p => p.Description)
+        &nbsp;&nbsp;
+        @this.Html.TextBoxFor(p => p.Description)
+    </div>
+    <br />
+    <div>
+        @this.Html.LabelFor(p => p.Price)
+        &nbsp;&nbsp;
+        @this.Html.TextBoxFor(p => p.Price)
+    </div>
+    <div>
+        @this.Html.ValidationMessageFor(p => p.Price)
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Add" />
+    </div>
+}
+
+@{
+    if (this.ViewData["message"] != null)
+    {
+        <span>@this.ViewData["message"]</span>
+    }
+}

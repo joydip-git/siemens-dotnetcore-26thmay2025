@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VgIlNoicppDYXj1epX68DAsD1DoL2i+zVLyWRimJzOk=",
+  "Source": "ProductManagementSystem.APIServer",
+  "BasePath": "_content/ProductManagementSystem.APIServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

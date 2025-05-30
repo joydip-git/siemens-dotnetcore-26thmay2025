@@ -1,0 +1,49 @@
+﻿@model List<ProductViewModel>
+@{
+    ViewData["Title"] = "All Records";
+}
+
+@if (this.Model != null && this.Model.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span>No records found...</span>
+}
+@{
+    if (ViewData["DeleteMessage"] != null)
+    {
+        <span>@ViewData["DeleteMessage"]</span>
+    }
+}
+@{
+    if (ViewBag.Hi != null)
+    {
+        <span>@ViewBag.Hi</span>
+    }
+}

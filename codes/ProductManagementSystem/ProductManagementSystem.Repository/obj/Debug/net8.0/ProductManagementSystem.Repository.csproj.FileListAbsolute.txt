@@ -1,0 +1,14 @@
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.deps.json
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.runtimeconfig.json
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.pdb
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.csproj.AssemblyReference.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.AssemblyInfoInputs.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.AssemblyInfo.cs
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.csproj.CoreCompileInputs.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\refint\ProductManagementSystem.Repository.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.pdb
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.genruntimeconfig.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ref\ProductManagementSystem.Repository.dll

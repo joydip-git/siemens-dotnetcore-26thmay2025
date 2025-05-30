@@ -1,0 +1,11 @@
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net8.0\ProductManagementSystem.Entities.deps.json
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net8.0\ProductManagementSystem.Entities.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net8.0\ProductManagementSystem.Entities.pdb
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.AssemblyInfoInputs.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.AssemblyInfo.cs
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.csproj.CoreCompileInputs.cache
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\refint\ProductManagementSystem.Entities.dll
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ProductManagementSystem.Entities.pdb
+D:\training\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net8.0\ref\ProductManagementSystem.Entities.dll

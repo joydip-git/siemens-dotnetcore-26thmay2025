@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799F6D9C-360B-463C-8A00-080313B22FA7}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F6D9C-360B-463C-8A00-080313B22FA7}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\models\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\models\\jwttokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.apiserver\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84113BE-A860-4ED0-BAED-357C3CF68644}|ProductManagementSystem.APIServer\\ProductManagementSystem.APIServer.csproj|solutionrelative:productmanagementsystem.apiserver\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F6D9C-360B-463C-8A00-080313B22FA7}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|g:\\newbackup\\my-applications\\dotnetcoreapps\\productmanagementsystem\\productmanagementsystem.repository\\pmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F6D9C-360B-463C-8A00-080313B22FA7}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\pmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.Repository\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\Product.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.Repository\\Product.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:18:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\Controllers\\AuthController.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:13:21.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:36:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:19:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenManager.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Models\\JwtTokenManager.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\Models\\JwtTokenManager.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Models\\JwtTokenManager.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\Models\\JwtTokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:14:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\appsettings.json",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\appsettings.json",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T12:03:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PmsDbContext.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.Repository\\PmsDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\PmsDbContext.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.Repository\\PmsDbContext.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\PmsDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:59:37.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIServer\\Program.cs",
+              "ToolTip": "G:\\NewBackUp\\my-applications\\dotnetcoreapps\\ProductManagementSystem\\ProductManagementSystem.APIServer\\Program.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIServer\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:02:12.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
