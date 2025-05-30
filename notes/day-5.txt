@@ -1,0 +1,58 @@
+Active Server Pages.NET Core 
+	ASP.NET Core Empty app
+	
+	ASP.NET Core Web API [RESTful API] => AddControllers()
+	ASP.NET Core Razor Pages	   => AddRazorPages()
+	ASP.NET Core MVC application       => AddControllersWithViews()
+	ASP.NET Core Blazor application
+	.NET Aspire
+	etc.
+
+delegate for middleware: 
+delegate Task RequestDelegate(HttpContext context);
+
+RequestDelegate endpointDel = (HttpContext context)=> ....;
+
+Controllers:
+	ControllerBase <- Your API controller [ApiController]
+	Controller     <- your MVC controller
+
+RouteTable -> a collection Route objects where each Route class objcet is created based on the attributed routing used at the top of the class and methods
+RouteDataDictionary -> a dictionary type of collection which will store the route pattern keys and values
+ControllerFactory -> create controller instance
+ActionInvoker -> invokes a particular method/action from the controller on the controller instance
+ModelBinder -> map the route parameter or request body data to the method argument and pass the same
+
+Route Table
+URL pattern		   	HomeController
+GET api/home/welcome	     -> Index() 
+GET api/home/data/{name}     -> GetData(string name) 
+GET api/home/data/{name}     -> GetData([FromRoute(Name="name")]string x)
+
+dictionary.Add("controller","home");
+dictionary.Add("name","joydip");
+
+Threads:
+----------------
+
+Main(){
+	int x= 10;
+	A obj = new A();
+
+}
+Add(int x, int y){}
+Subtract(int x, int y){}
+
+Thread Local Storage (TLS)
+
+Task Parallel Library (TPL)
+
+Task GetData()
+
+Task t = GetData()
+t.IsRequestCompleted
+t.Result
+	
+
+
+

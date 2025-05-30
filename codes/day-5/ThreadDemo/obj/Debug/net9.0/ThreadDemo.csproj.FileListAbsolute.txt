@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\bin\Debug\net9.0\ThreadDemo.exe
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\bin\Debug\net9.0\ThreadDemo.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\bin\Debug\net9.0\ThreadDemo.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\bin\Debug\net9.0\ThreadDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\bin\Debug\net9.0\ThreadDemo.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\refint\ThreadDemo.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ThreadDemo.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\day-5\ThreadDemo\obj\Debug\net9.0\ref\ThreadDemo.dll

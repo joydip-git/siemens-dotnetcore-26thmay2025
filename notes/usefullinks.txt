@@ -1,0 +1,17 @@
+asp.net core:
+https://dotnettutorials.net/course/asp-net-core-tutorials/
+
+asp.net core start up:
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-9.0&tabs=windows
+
+generic host in .NET:
+https://learn.microsoft.com/en-us/dotnet/core/extensions/generic-host?tabs=appbuilder
+
+DI in .NET:
+https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection
+
+Configuration in .NET:
+https://learn.microsoft.com/en-us/dotnet/core/extensions/configuration
+
+Logging in .NET:
+https://learn.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line
