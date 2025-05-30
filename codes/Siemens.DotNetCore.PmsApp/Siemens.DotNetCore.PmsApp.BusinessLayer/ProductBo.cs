@@ -1,32 +1,47 @@
-﻿using Siemens.DotNetCore.PmsApp.Entities;
+﻿using Siemens.DotNetCore.PmsApp.DataAccessLayer;
+using Siemens.DotNetCore.PmsApp.Entities;
 
 namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 {
-    public class ProductBo : IPmsBusinessComponent<ProductDto, string>
+    public class ProductBo(IPmsDao<ProductDto, string> pmsDao) : IPmsBusinessComponent<ProductDto, string>
     {
+        //private readonly IPmsDao<ProductDto, string> pmsDao;
+        //public ProductBo(IPmsDao<ProductDto, string> pmsDao)
+        //{
+        //    this.pmsDao = pmsDao;
+        //}
+
         public ProductDto? Add(ProductDto entity)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public IEnumerable<ProductDto> FetchAll()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var records = pmsDao.GetAll();
+                return records.Any() ? records : throw new Exception("no records found");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public ProductDto? FetchById(string id)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public ProductDto? Modify(string id, ProductDto entity)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public ProductDto? Remove(string id)
         {
-            throw new NotImplementedException();
+            return null; 
         }
     }
 }

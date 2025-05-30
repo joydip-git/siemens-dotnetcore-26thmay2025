@@ -14,7 +14,7 @@ namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 
         public ProductDto? Delete(string id)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public IEnumerable<ProductDto> GetAll()
@@ -49,17 +49,17 @@ namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 
         public ProductDto? GetById(string id)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public ProductDto? Insert(ProductDto entity)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public ProductDto? Update(string id, ProductDto entity)
         {
-            throw new NotImplementedException();
+            return null;
         }
     }
 }
