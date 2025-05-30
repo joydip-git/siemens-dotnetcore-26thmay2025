@@ -1,5 +1,4 @@
-﻿
-namespace Siemens.DotNetCore.PmsApp.Entities
+﻿namespace Siemens.DotNetCore.PmsApp.Repository
 {
     public class Product
     {
@@ -23,7 +22,7 @@ namespace Siemens.DotNetCore.PmsApp.Entities
 
         public override bool Equals(object? obj)
         {
-            if (obj == null) 
+            if (obj == null)
                 return false;
 
             return obj is Product product &&
@@ -36,4 +35,5 @@ namespace Siemens.DotNetCore.PmsApp.Entities
             return HashCode.Combine(ProductId) ^ prime;
         }
     }
+}
 }

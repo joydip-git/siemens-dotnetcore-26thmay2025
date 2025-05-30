@@ -2,29 +2,29 @@
 
 namespace Siemens.DotNetCore.PmsApp.DataAccessLayer
 {
-    public class ProductDao : IPmsDao<Product, string>
+    public class ProductDao : IPmsDao<ProductDto, string>
     {
-        public Product? Delete(string id)
+        public ProductDto? Delete(string id)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Product> GetAll()
+        public IEnumerable<ProductDto> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public Product? GetById(string id)
+        public ProductDto? GetById(string id)
         {
             throw new NotImplementedException();
         }
 
-        public Product? Insert(Product entity)
+        public ProductDto? Insert(ProductDto entity)
         {
             throw new NotImplementedException();
         }
 
-        public Product? Update(string id, Product entity)
+        public ProductDto? Update(string id, ProductDto entity)
         {
             throw new NotImplementedException();
         }

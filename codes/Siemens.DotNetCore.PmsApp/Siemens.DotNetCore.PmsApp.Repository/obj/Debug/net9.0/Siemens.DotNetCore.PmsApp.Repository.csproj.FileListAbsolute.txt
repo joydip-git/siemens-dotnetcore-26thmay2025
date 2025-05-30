@@ -1,0 +1,6 @@
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.sourcelink.json

@@ -2,29 +2,29 @@
 
 namespace Siemens.DotNetCore.PmsApp.BusinessLayer
 {
-    public class ProductBo : IPmsBusinessComponent<Product, string>
+    public class ProductBo : IPmsBusinessComponent<ProductDto, string>
     {
-        public Product? Add(Product entity)
+        public ProductDto? Add(ProductDto entity)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Product> FetchAll()
+        public IEnumerable<ProductDto> FetchAll()
         {
             throw new NotImplementedException();
         }
 
-        public Product? FetchById(string id)
+        public ProductDto? FetchById(string id)
         {
             throw new NotImplementedException();
         }
 
-        public Product? Modify(string id, Product entity)
+        public ProductDto? Modify(string id, ProductDto entity)
         {
             throw new NotImplementedException();
         }
 
-        public Product? Remove(string id)
+        public ProductDto? Remove(string id)
         {
             throw new NotImplementedException();
         }
