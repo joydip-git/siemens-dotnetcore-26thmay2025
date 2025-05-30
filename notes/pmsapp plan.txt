@@ -33,11 +33,14 @@ blank soltuion: Siemens.DotNetCore.PmsApp
 	- service with 5 actions which are callable via HTTP protol methods
 	- HTTP request - APIs mapping
 
-Domain neutral type:
+4. Domain neutral type:
 	class library: Siemens.DotNetCore.PmsApp.Entities
 	- business entities (DTOs/DOs)
 	- class file: with an entity
 		- Product
 
-	
+5. Repository
+	class library: Siemens.DotNetCore.PmsApp.Repository
+	- db context child class
+	- poco class
 
