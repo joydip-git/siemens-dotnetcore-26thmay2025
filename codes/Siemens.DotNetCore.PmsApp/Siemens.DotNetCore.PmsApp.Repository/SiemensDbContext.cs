@@ -10,6 +10,8 @@ namespace Siemens.DotNetCore.PmsApp.Repository
         //{ 
         //}
 
+        public DbSet<Product> Products { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             EntityTypeBuilder<Product> productModelBuilder = modelBuilder.Entity<Product>();

@@ -4,3 +4,12 @@ D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Sieme
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.AssemblyInfo.cs
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.csproj.CoreCompileInputs.cache
 D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.sourcelink.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.deps.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.runtimeconfig.json
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\bin\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\refint\Siemens.DotNetCore.PmsApp.Repository.dll
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.pdb
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\Siemens.DotNetCore.PmsApp.Repository.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-26thmay2025\codes\Siemens.DotNetCore.PmsApp\Siemens.DotNetCore.PmsApp.Repository\obj\Debug\net9.0\ref\Siemens.DotNetCore.PmsApp.Repository.dll
